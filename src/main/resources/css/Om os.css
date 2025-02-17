@@ -1,0 +1,22 @@
+.Om_h1{
+    text-align: center;
+    margin-left: -50%;
+    margin-top: 10%;
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+.Om_text{
+    text-align:center;
+    margin-left: -50%;
+    margin-top: 5%;
+}
+
+#big_icon{
+    height: 300px;
+    width: 250px;
+    margin-right: 100px;
+    float: right;
+}
+
