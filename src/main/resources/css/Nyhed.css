@@ -1,0 +1,9 @@
+.news_container{
+    background: lightgray;
+    width: 40%;
+    margin: auto;
+    display: flow-root;
+    text-align: left;
+    word-wrap: break-word;
+
+}
