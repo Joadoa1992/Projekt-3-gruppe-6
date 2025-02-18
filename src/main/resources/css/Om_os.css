@@ -1,0 +1,46 @@
+.Om_h1{
+    text-align: center;
+    margin-left: -50%;
+    margin-top: 5%;
+    font-size: 44px;
+    font-weight: bold;
+
+}
+
+.Om_text{
+    text-align:center;
+    margin-left: -50%;
+    margin-top: 3%;
+}
+
+.Om_holder {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 20em;
+    top: 10px;
+
+}
+
+#big_icon{
+    height: 100%;
+    width: 70%;
+    float: right;
+    left: -30px;
+
+}
+
+
+.Om_text_holder {
+    word-wrap: break-word;
+
+}
+
+.Om_h1 {
+
+}
+
+.Om_text {
+
+}
+
