@@ -4,6 +4,13 @@
     display: inline-flex;
 }
 
+img {
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
 .header{
     width: 100%;
     height: 10%;
@@ -48,10 +55,12 @@
 }
 #madspild_img{
     height: 100%;
-    width: 100%;
+    width: 70%;
+    float: right;
 }
 
 .image_holder{
+    background: #ACCBE3;
     position: relative;
     text-align: center;
     width: 100%;
@@ -59,16 +68,28 @@
     top:10px;
 }
 
-.img_h1{
+.image_text_holder{
     position: absolute;
-    font-size: 2em;
-    top:100px;
-    bottom: 10px;
-    left: 10px;
+    top:15%;
+    left: 5%;
+    width: 20%;
+    height: 50%;
+    word-wrap: break-word
 }
 
-.img_p{
-    position: absolute;
-    top:20px;
-    bottom: 10px;
+.light{
+    display: inline;
+    position: relative;
+    text-shadow: 0 0 14px white;
+}
+.news_holder{
+    text-align: center;
+}
+
+.news_image{
+    width: 20%;
+    height: 20%;
+    object-fit: contain;
+    display: inline-grid;
+    margin: 0 0 0 5%;
 }
