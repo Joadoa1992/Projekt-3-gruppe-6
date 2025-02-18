@@ -5,8 +5,6 @@
 }
 
 img {
-    height: auto;
-    width: auto;
     max-height: 100%;
     max-width: 100%;
 }
@@ -90,6 +88,14 @@ img {
     width: 20%;
     height: 20%;
     object-fit: contain;
-    display: inline-grid;
+    display: inline-block;
     margin: 0 0 0 5%;
+    background: #ACCBE3;
+    color: black;
+    border-radius: 10px;
+}
+
+.news_image:hover{
+    scale: calc(1.2);
+    box-shadow: 0 0 10px 4px wheat;
 }
