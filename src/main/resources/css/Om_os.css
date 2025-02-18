@@ -24,23 +24,29 @@
 
 #big_icon{
     height: 100%;
-    width: 70%;
+    width: 50%;
     float: right;
-    left: -30px;
-
+    margin-top: 55px;
+    margin-right: 50px;
 }
 
 
 .Om_text_holder {
     word-wrap: break-word;
-
+    position: absolute;
+    left: 16%;
+    top: 10%;
+    width: 25%;
 }
 
-.Om_h1 {
-
+.Om_h1{
+    font-size: 44px;
+    letter-spacing: 1px;
 }
 
 .Om_text {
+    letter-spacing: 1px;
+    font-size: 18px;
 
 }
 
