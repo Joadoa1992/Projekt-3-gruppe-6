@@ -119,7 +119,7 @@ img {
 .light{
     display: inline;
     position: relative;
-    text-shadow: 0 0 14px white;
+    text-shadow: 0 0 3px white;
 }
 .news_holder{
     text-align: center;
