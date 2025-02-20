@@ -28,14 +28,20 @@ img {
     text-underline: none;
 }
 
+#header_h1{
+    margin: 0;
+}
+
+
 .header_h1{
-    display: inline;
-    font-size: 2em;
+    display: inline-grid;
+    text-align: center;
+    font-size: 1em;
     position: relative;
-    left: 20%;
-    bottom: 0.5em;
-    color:black;
-    font-family:'Roboto';
+    bottom: 1.2em;
+    margin-left: 31%;
+    height: 0;
+    font-family: 'Roboto', serif;
     text-shadow: white 2px 2px 4px ;
 }
 
