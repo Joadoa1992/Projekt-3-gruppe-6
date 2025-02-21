@@ -1,26 +1,51 @@
-#kidss {
-    width: 500px;
-    height: 500px;
-    float: right;
-    margin-left: 50px;
 
-}
 
-body {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    height: 100vh;
-    flex-direction: column;
-    text-align: center;
-    margin:0;
 
-}
+
 
 .container{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 600px;
 }
 
-img
+#map {
+    width: 1000px;
+    max-width: 100%;
+    border-radius: 15px;
+
+}
+
+.Kontaktformular{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+.born{
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    float: right;
+    margin-left: 50px;
+    margin-top: 30px;
+    border-radius: 15px;
+    margin-right: 100px;
+}
+.aabningstider{
+    align-items: center;
+    float: left;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-top: 200px;
+
+}
+#kidss{
+    border-radius: 15px;
+    width: 700px;
+}
+
