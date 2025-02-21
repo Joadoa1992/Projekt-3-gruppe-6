@@ -49,6 +49,8 @@
 #besked{
     max-width: 220px;
     max-height: 220px;
+    min-height: 20px;
+    min-width: 100px;
 
 }
 
