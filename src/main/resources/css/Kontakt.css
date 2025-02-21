@@ -18,7 +18,7 @@
 }
 
 .Overdiv{
-    width: 180px;
+    width: 190px;
     height: 350px;
     float: left;
     margin-right: 30px;
@@ -28,7 +28,7 @@
 }
 .born{
     align-items: center;
-    width: 500px;
+    width: 700px;
     height: 500px;
     float: right;
     margin-left: 50px;
@@ -38,11 +38,17 @@
 
 
 }
-#kidss{
+#kiiids{
     border-radius: 15px;
     width: 700px;
 }
 .Kontaktformular{
-    padding-bottom: 55px;
+    padding-bottom: 65px;
+}
+
+#besked{
+    max-width: 220px;
+    max-height: 220px;
+
 }
 
