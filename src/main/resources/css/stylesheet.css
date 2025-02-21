@@ -6,6 +6,7 @@
 
 body{
     background: #2A9D8F;
+    font-family: Arial, sans-serif;
 }
 
 img {
@@ -35,7 +36,7 @@ img {
     left: 20%;
     bottom: 0.5em;
     color:black;
-    font-family:'Roboto';
+    font-family: Roboto;
     text-shadow: white 2px 2px 4px ;
 }
 
