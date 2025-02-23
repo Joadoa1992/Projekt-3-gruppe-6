@@ -7,6 +7,7 @@
 body{
     background-image: linear-gradient(to bottom, #2A9D8F, white);
     font-family: Arial, sans-serif;
+    letter-spacing: 1px;
 }
 
 img {
@@ -30,7 +31,7 @@ img {
 }
 
 #header_h1{
-    margin: 0;
+    margin: -35px;
 }
 
 
@@ -40,9 +41,8 @@ img {
     font-size: 1em;
     position: relative;
     bottom: 1.2em;
-    margin-left: 31%;
+    margin-left: 16%;
     height: 0;
-    font-family: 'Roboto', serif;
     text-shadow: white 2px 2px 4px ;
 }
 
